@@ -1,0 +1,12 @@
+python -u run.py \
+    --test_file ./data/arxiv_tasks1.jsonl \
+    --api_key "REMOVED_API_KEY" \
+    --api_model gpt-4o \
+    --max_iter 15 \
+    --max_attached_imgs 3 \
+    --temperature 0 \
+    --fix_box_color \
+    --seed 42 \
+    --window_width 1920 \
+    --window_height 1080 \
+    --pdf_path data/arXiv.pdf
