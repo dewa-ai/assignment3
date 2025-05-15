@@ -170,5 +170,5 @@ International Graduate Program in AI
 National Central University (NCU)
 Taiwan
 
-GitHub: https://github.com/dewa-ai/assignment3-agenticai
+GitHub: https://github.com/dewa-ai/assignment3
 ```
